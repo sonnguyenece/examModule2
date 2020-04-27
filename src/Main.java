@@ -87,7 +87,7 @@ public class Main {
                             int numSearch = scn.nextInt();
                             contactList.searchByNum(numSearch);
                         }
-                        break;;
+                        break;
 
                 case 6:
                 case 7:
